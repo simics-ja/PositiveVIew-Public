@@ -1,0 +1,18 @@
+// Define your variable overrides here
+
+// Base variables
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+$font-family-sans-serif: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+// Colors
+$primary: #BF0000;
+$secondary: #907070;
+$success: #098470;
+$warning: #F1A118;
+$danger: #C92050;
+$info: #1F4961;
+
+$body-bg: $primary;
+//$body-color: #2F2F1F;
+$body-color: #3F3F3F;
